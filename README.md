@@ -1,3 +1,5 @@
+> **已迁移**：本插件已合并至统一仓库 [agent-plugins](https://github.com/dream-star-end/agent-plugins)，后续更新只在新仓进行，本仓归档保留。
+
 # arxiv-plugin · 学术论文 Agent 插件
 
 给 AI Agent 用的论文检索工具包：**零依赖 CLI + Agent Skill**，
